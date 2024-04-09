@@ -1,0 +1,7 @@
+B:\kpi\ООП\semeseter_2\Laba_4\Curency\bin\Debug\Curency.exe.config
+B:\kpi\ООП\semeseter_2\Laba_4\Curency\bin\Debug\Curency.exe
+B:\kpi\ООП\semeseter_2\Laba_4\Curency\bin\Debug\Curency.pdb
+B:\kpi\ООП\semeseter_2\Laba_4\Curency\obj\Debug\Curency.csproj.AssemblyReference.cache
+B:\kpi\ООП\semeseter_2\Laba_4\Curency\obj\Debug\Curency.csproj.CoreCompileInputs.cache
+B:\kpi\ООП\semeseter_2\Laba_4\Curency\obj\Debug\Curency.exe
+B:\kpi\ООП\semeseter_2\Laba_4\Curency\obj\Debug\Curency.pdb
