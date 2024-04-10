@@ -7,8 +7,16 @@
       "RelativeMoniker": "D:0:0:{63D0A970-5857-4C8B-90B1-60D51D80AE64}|Laba_4\\Laba_4.csproj|solutionrelative:laba_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7AE5EDCA-53AB-44FA-9A71-8927B78EA7F5}|Curency\\Curency.csproj|b:\\kpi\\\u043E\u043E\u043F\\semeseter_2\\laba_4\\curency\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AE5EDCA-53AB-44FA-9A71-8927B78EA7F5}|Curency\\Curency.csproj|solutionrelative:curency\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{63D0A970-5857-4C8B-90B1-60D51D80AE64}|Laba_4\\Laba_4.csproj|b:\\kpi\\\u043E\u043E\u043F\\semeseter_2\\laba_4\\laba_4\\passengercar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D0A970-5857-4C8B-90B1-60D51D80AE64}|Laba_4\\Laba_4.csproj|solutionrelative:laba_4\\passengercar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D0A970-5857-4C8B-90B1-60D51D80AE64}|Laba_4\\Laba_4.csproj|b:\\kpi\\\u043E\u043E\u043F\\semeseter_2\\laba_4\\laba_4\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D0A970-5857-4C8B-90B1-60D51D80AE64}|Laba_4\\Laba_4.csproj|solutionrelative:laba_4\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D0A970-5857-4C8B-90B1-60D51D80AE64}|Laba_4\\Laba_4.csproj|b:\\kpi\\\u043E\u043E\u043F\\semeseter_2\\laba_4\\laba_4\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D0A970-5857-4C8B-90B1-60D51D80AE64}|Laba_4\\Laba_4.csproj|solutionrelative:laba_4\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,19 +26,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "B:\\kpi\\\u041E\u041E\u041F\\semeseter_2\\Laba_4\\Curency\\Program.cs",
-              "RelativeDocumentMoniker": "Curency\\Program.cs",
-              "ToolTip": "B:\\kpi\\\u041E\u041E\u041F\\semeseter_2\\Laba_4\\Curency\\Program.cs",
-              "RelativeToolTip": "Curency\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAEUAAAAAAAAA",
+              "Title": "PassengerCar.cs",
+              "DocumentMoniker": "B:\\kpi\\\u041E\u041E\u041F\\semeseter_2\\Laba_4\\Laba_4\\PassengerCar.cs",
+              "RelativeDocumentMoniker": "Laba_4\\PassengerCar.cs",
+              "ToolTip": "B:\\kpi\\\u041E\u041E\u041F\\semeseter_2\\Laba_4\\Laba_4\\PassengerCar.cs",
+              "RelativeToolTip": "Laba_4\\PassengerCar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T11:37:18.693Z",
+              "WhenOpened": "2024-04-10T06:13:33.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Truck.cs",
+              "DocumentMoniker": "B:\\kpi\\\u041E\u041E\u041F\\semeseter_2\\Laba_4\\Laba_4\\Truck.cs",
+              "RelativeDocumentMoniker": "Laba_4\\Truck.cs",
+              "ToolTip": "B:\\kpi\\\u041E\u041E\u041F\\semeseter_2\\Laba_4\\Laba_4\\Truck.cs",
+              "RelativeToolTip": "Laba_4\\Truck.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T06:12:59.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "B:\\kpi\\\u041E\u041E\u041F\\semeseter_2\\Laba_4\\Laba_4\\Car.cs",
+              "RelativeDocumentMoniker": "Laba_4\\Car.cs",
+              "ToolTip": "B:\\kpi\\\u041E\u041E\u041F\\semeseter_2\\Laba_4\\Laba_4\\Car.cs",
+              "RelativeToolTip": "Laba_4\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T06:11:36.533Z",
               "EditorCaption": ""
             },
             {
@@ -41,7 +75,7 @@
               "RelativeDocumentMoniker": "Laba_4\\Program.cs",
               "ToolTip": "B:\\kpi\\\u041E\u041E\u041F\\semeseter_2\\Laba_4\\Laba_4\\Program.cs",
               "RelativeToolTip": "Laba_4\\Program.cs",
-              "ViewState": "AQIAADoAAAAAAAAAAAAwwEsAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-09T11:17:58.942Z",
               "EditorCaption": ""
